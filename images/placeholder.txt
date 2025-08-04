@@ -1,0 +1,14 @@
+圖片檔案將被放置在此資料夾中。
+您需要提供以下圖片文件：
+
+1. hero.jpg - 首頁大型背景圖片
+2. logo.png - 飯店品牌標誌
+3. hotel.jpg - 飯店建築外觀圖
+4. room.jpg - 豪華客房圖片
+5. dining.jpg - 餐廳/美食圖片
+6. spa.jpg - 水療設施圖片
+7. gallery1.jpg 至 gallery4.jpg - 飯店各處設施圖片
+8. map.jpg - 飯店位置地圖
+9. location.png, phone.png, email.png - 聯絡方式圖標
+
+請將您的圖片檔案放在此資料夾中，命名需與上述相同。
